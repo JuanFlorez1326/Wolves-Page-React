@@ -12,16 +12,16 @@ import Lobo11 from './Images/Lobos/lobo11.jpeg';
 import Lobo12 from './Images/Lobos/lobo12.jpeg';
 
 export const lobos = [
-  {id:1,name:"Lobo 1",URL: Lobo1},
-  {id:2,name:"Lobo 2",URL: Lobo2},
-  {id:3,name:"Lobo 3",URL: Lobo3},
-  {id:4,name:"Lobo 4",URL: Lobo4},
-  {id:5,name:"Lobo 5",URL: Lobo5},
-  {id:6,name:"Lobo 6",URL: Lobo6},
-  {id:7,name:"Lobo 7",URL: Lobo7},
-  {id:8,name:"Lobo 8",URL: Lobo8},
-  {id:9,name:"Lobo 9",URL: Lobo9},
-  {id:10,name:"Lobo 10",URL: Lobo10},
-  {id:11,name:"Lobo 11",URL: Lobo11},
-  {id:12,name:"Lobo 12",URL: Lobo12},
+  {id:1,name:"Wolf  1",URL: Lobo1},
+  {id:2,name:"Wolf 2",URL: Lobo2},
+  {id:3,name:"Wolf 3",URL: Lobo3},
+  {id:4,name:"Wolf 4",URL: Lobo4},
+  {id:5,name:"Wolf 5",URL: Lobo5},
+  {id:6,name:"Wolf 6",URL: Lobo6},
+  {id:7,name:"Wolf 7",URL: Lobo7},
+  {id:8,name:"Wolf 8",URL: Lobo8},
+  {id:9,name:"Wolf 9",URL: Lobo9},
+  {id:10,name:"Wolf 10",URL: Lobo10},
+  {id:11,name:"Wolf 11",URL: Lobo11},
+  {id:12,name:"Wolf 12",URL: Lobo12},
 ];
